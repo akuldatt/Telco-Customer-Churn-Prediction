@@ -92,6 +92,29 @@ Among all models tested, Random Forest performed the best with an accuracy of ab
 ### Model Performace Comparison  
 ![Model Performance Comparison](images/Model_Performance_Comparison.png)
 
+## 📈 Key Insights
+
+✅ **Contract Type:**  
+Customers with **month-to-month contracts** churn at a much higher rate than those with longer-term contracts. Encouraging annual or two-year contracts could reduce churn.
+
+✅ **Tenure & Charges:**  
+Customers with **short tenure and high monthly charges** are more likely to leave. Targeting new customers with loyalty programs and better pricing could improve retention.
+
+✅ **Internet Service:**  
+Fiber optic users show higher churn — improving service reliability may help keep these customers.
+
+✅ **Feature Importance (Random Forest):**  
+The Random Forest model highlights **Contract Type, Tenure, and Monthly Charges** as the most influential factors driving churn.
+
+✅ **Model Accuracy Comparison:**  
+Among all tested models, **Random Forest** achieved the highest accuracy, making it the most reliable for this churn prediction task.
+
+✅ **Model Performance Comparison:**  
+Random Forest balanced **precision, recall, and ROC AUC** the best, showing strong generalization and prediction consistency.
+
+✅ **Recommendation:**  
+Deploy the churn prediction model to proactively identify at-risk customers and implement targeted retention strategies to reduce churn and boost revenue.
+
 
 
 
