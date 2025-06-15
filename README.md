@@ -66,10 +66,10 @@ Among all models tested, Random Forest performed the best with an accuracy of ab
 ## 📊 Visualization Previews
 
 ### Churn by Contract Type  
-![Churn by Contract Type](outputs/churn_by_contract.png)
+![Churn by Contract Type](image/churn_by_contract.png)
 
 ### Tenure vs Churn  
-![Tenure vs Churn](outputs/tenure_vs_churn.png)
+![Tenure vs Churn](image/tenure_vs_churn.png)
 
 ### Churn by Internet Service  
 ![Churn by Internet Service](outputs/churn_by_internet.png)
