@@ -69,25 +69,28 @@ Among all models tested, Random Forest performed the best with an accuracy of ab
 ![Churn by Contract Type](images/Churn_by_Contract_Type.png)
 
 ### Tenure vs Churn  
-![Tenure vs Churn](images/Tenure_vs_Churn.png)
+![Tenure vs Churn](images/Churn_by_tenure.png)
 
 ### Churn by Internet Service  
-![Churn by Internet Service](images/churn_by_internet.png)
+![Churn by Internet Service](images/Churn_by_Internet_Service_Type.png)
 
 ### Monthly Charges vs Churn  
-![Monthly Charges vs Churn](images/monthly_charges_vs_churn.png)
+![Monthly Charges vs Churn](images/Monthly_Charges_vs_Churn.png)
 
 ### Confusion Matrix Heatmap  
-![Confusion Matrix Heatmap](images/confusion_matrix_heatmap.png)
+![Confusion Matrix Heatmap](images/Confusion_Matrix_as_Heatmap.png)
 
 ### ROC Curve (Random Forest)  
-![ROC Curve](images/roc_curve_random_forest.png)
+![ROC Curve](images/ROC_Curve-Random_Forest.png)
 
 ### Feature Importance (Random Forest)  
-![Feature Importance](images/feature_importance_random_forest.png)
+![Feature Importance](images/Feature_Importances_(Random_Forest).png)
 
-### Model Accuracy Comparison  
-![Model Accuracy Comparison](images/model_accuracy_comparison.png)
+### Model Accuracy Comparison
+![Model Accuracy Comparison](images/Model_Accuracy_Comparison.png)
+
+### Model Performace Comparison  
+![Model Performance Comparison](images/Model_Performance_Comparison.png)
 
 
 
