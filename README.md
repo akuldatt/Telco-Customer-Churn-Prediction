@@ -13,9 +13,6 @@ models/ — Trained model file (best_model.pkl)
 
 README.md — Project overview and instructions
 
-requirements.txt — Python dependencies
-
-.gitignore — Files and folders to exclude from version control
 
 🛠 Tools & Technologies
 Python (Pandas, NumPy, Seaborn, Matplotlib)
@@ -115,7 +112,7 @@ Random Forest balanced **precision, recall, and ROC AUC** the best, showing stro
 ✅ **Recommendation:**  
 Deploy the churn prediction model to proactively identify at-risk customers and implement targeted retention strategies to reduce churn and boost revenue.
 
-**🎯 What is Predicted?** 
+## 🎯 What is Predicted?
 In this Telco Customer Churn project:
 
 Goal: Predict whether a customer will churn (leave the telecom service) based on their usage patterns, contract type, tenure, and monthly charges.
