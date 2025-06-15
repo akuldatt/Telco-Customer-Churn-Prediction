@@ -115,6 +115,17 @@ Random Forest balanced **precision, recall, and ROC AUC** the best, showing stro
 ✅ **Recommendation:**  
 Deploy the churn prediction model to proactively identify at-risk customers and implement targeted retention strategies to reduce churn and boost revenue.
 
+**🎯 What is Predicted?** 
+In this Telco Customer Churn project:
 
+Goal: Predict whether a customer will churn (leave the telecom service) based on their usage patterns, contract type, tenure, and monthly charges.
+
+Target: Churn (1 = churn, 0 = no churn)
+
+Models Used: Logistic Regression, Decision Tree, Random Forest, XGBoost, and a Voting Classifier.
+
+Outcome: Helps the business identify at-risk customers early and take proactive retention actions.
+
+👉 This prediction enables the company to reduce customer loss and improve long-term revenue.
 
 
